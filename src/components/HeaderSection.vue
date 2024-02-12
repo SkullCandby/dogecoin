@@ -3,8 +3,8 @@
     <nav>
       <ul>
         <li><a href="https://twitter.com/Babydoge_onSol" target="_blank"><i class="fab fa-twitter"></i> Twitter</a></li>
-        <li><a href="https://your_chart_link" target="_blank"><i class="fas fa-chart-line"></i> Chart</a></li>
-        <li><a href="https://t.me/your_telegram" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram</a></li>
+        <li><a href="https://dexscreener.com/solana/52mE2VRk8qGmLFWmRABYvGHxMwDMCM4jnXpJPazCJ2fu" target="_blank"><i class="fas fa-chart-line"></i> Chart</a></li>
+        <li><a href="https://t.me/+erZHwqC7xlRhZjMy" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram</a></li>
       </ul>
     </nav>
   </header>
